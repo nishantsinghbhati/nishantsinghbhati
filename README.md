@@ -31,15 +31,15 @@ I'm a passionate **Full-Stack Web Developer** skilled in JavaScript, Node.js, Mo
 
 ###  Projects
 
-🔗 **[Portfolio Website](https://nishant-singh-bhati-portfolio.onrender.com)**  
+ **[Portfolio Website](https://nishant-singh-bhati-portfolio.onrender.com)**  
  Tech Used: Node.js, Express, Tailwind CSS, EJS  
 A clean, responsive, animated portfolio site showcasing my skills and projects.
 
-🔗 **[Jujutsu E-Commerce Website](https://nishantsinghbhati.github.io/ecommercewebsite/)**  
+ **[Jujutsu E-Commerce Website](https://nishantsinghbhati.github.io/ecommercewebsite/)**  
  Tech Used: HTML, CSS, JavaScript  
 Fully responsive e-commerce UI with engaging animations and intuitive navigation.
 
-🔐 **E-Commerce Website with Auth (Local Project)**  
+ **E-Commerce Website with Auth (Local Project)**  
  Tech Used: Node.js, Express, MongoDB, EJS  
 Secure e-commerce platform with user auth, inventory updates, and admin panel.
 
