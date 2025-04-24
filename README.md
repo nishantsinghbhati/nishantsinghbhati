@@ -3,13 +3,13 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a passionate **Full-Stack Web Developer** skilled in JavaScript, Node.js, MongoDB, and Responsive Web Design. I love building intuitive, scalable, and user-friendly web applications — from e-commerce platforms to interactive portfolios.
 
-- 🧠 I enjoy both front-end & back-end development
-- 🛠️ Always upskilling with new tools & frameworks
-- 🧩 Team player with strong problem-solving skills
+- I enjoy both front-end & back-end development
+- Always upskilling with new tools & frameworks
+- Team player with strong problem-solving skills
 
 ---
 
@@ -29,31 +29,31 @@ I'm a passionate **Full-Stack Web Developer** skilled in JavaScript, Node.js, Mo
 
 ---
 
-### 📁 Projects
+###  Projects
 
 🔗 **[Portfolio Website](https://nishant-singh-bhati-portfolio.onrender.com)**  
-🧰 Tech Used: Node.js, Express, Tailwind CSS, EJS  
+ Tech Used: Node.js, Express, Tailwind CSS, EJS  
 A clean, responsive, animated portfolio site showcasing my skills and projects.
 
 🔗 **[Jujutsu E-Commerce Website](https://nishantsinghbhati.github.io/ecommercewebsite/)**  
-🧰 Tech Used: HTML, CSS, JavaScript  
+ Tech Used: HTML, CSS, JavaScript  
 Fully responsive e-commerce UI with engaging animations and intuitive navigation.
 
 🔐 **E-Commerce Website with Auth (Local Project)**  
-🧰 Tech Used: Node.js, Express, MongoDB, EJS  
+ Tech Used: Node.js, Express, MongoDB, EJS  
 Secure e-commerce platform with user auth, inventory updates, and admin panel.
 
 ---
 
-### 📜 Certifications
+###  Certifications
 
-- 🧑‍💻 **Responsive Web Design** – freeCodeCamp *(Mar 2025)*  
-- ☁️ **AWS Solutions Architecture Simulation** – Forage *(Jan 2025)*  
-- 🛠️ **Full-Stack Web Development Bootcamp** – Udemy *(Sep 2024)*
+-  **Responsive Web Design** – freeCodeCamp *(Mar 2025)*  
+-  **AWS Solutions Architecture Simulation** – Forage *(Jan 2025)*  
+-  **Full-Stack Web Development Bootcamp** – Udemy *(Sep 2024)*
 
 ---
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/nishant-singh-bhati)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/nishantsinghbhati)
@@ -61,7 +61,6 @@ Secure e-commerce platform with user auth, inventory updates, and admin panel.
 
 ---
 
-⭐ _“Code is like humor. When you have to explain it, it’s bad.”_  
-— Cory House
+
 
 # nishantsinghbhati
