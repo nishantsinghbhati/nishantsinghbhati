@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;AI+%2B+Automation+Enthusiast;Building+Modern+Web+Experiences;Design+%2B+Code+%2B+Scalability" />
 </p>
 
----
+
 
 ## 🧠 About Me
 
-```diff
+
 + I build scalable, high-performance web applications.
 + I combine design, development, and AI to solve real problems.
 + Focused on creating clean, fast, and impactful digital products.
@@ -52,4 +52,4 @@
 - Scalable backend architecture
 🌐 Connect With Me
 <p align="center"> <a href="https://linkedin.com/in/nishant-singh-bhati"> <img src="https://img.shields.io/badge/LinkedIn-10B981?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/nishantsinghbhati"> <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000"/> </a> <a href="mailto:nishantsinghbhati96@gmail.com"> <img src="https://img.shields.io/badge/Email-D4AF37?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
-<!-- 🌿 FOOTER --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:10B981&height=120&section=footer"/> </p> ```
+ <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:10B981&height=120&section=footer"/> </p>
